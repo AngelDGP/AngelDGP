@@ -113,3 +113,9 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=AngelDGP&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" />
 </div>
+
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AngelDGP/AngelDGP/output/snake.svg" alt="Snake animation" />
+</div>
+
